@@ -4,6 +4,7 @@ Bem-vindo ao repositório de apoio da monitoria! Este espaço foi criado para te
 
 > 💡 **Todos os exemplos usam o mesmo projeto fictício:** uma loja virtual simples chamada **ShopEasy** — um e-commerce de produtos onde usuários podem se cadastrar, navegar por categorias e fazer pedidos.
 
+> ⚠️ Este repositório é um material de apoio. Ele não substitui as aulas nem o autoestudo aprofundado. O professor é o principal responsável pelo seu aprendizado e quem define o que está correto no contexto da disciplina.
 ---
 
 ## 🛍️ O Projeto de Exemplo: ShopEasy
