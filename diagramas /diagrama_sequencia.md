@@ -1,4 +1,4 @@
-# 🔄 Diagrama de Sequência UML — Seção 3.2.4
+# 🔄 Diagrama de Sequência UML
 
 ## O que é?
 
@@ -187,4 +187,3 @@ sequenceDiagram
 - [ ] Os **retornos** usam linha tracejada?
 - [ ] As barras de ativação indicam quando cada componente está ativo?
 - [ ] O fluxo segue a ordem: Controller → Service → Repository → Banco?
-- [ ] O Controller não tem lógica de negócio no diagrama?
