@@ -1,4 +1,4 @@
-# 🗂️ Diagrama Entidade-Relacionamento (DER) — Seção 3.6.2
+# 🗂️ Diagrama Entidade-Relacionamento (DER)
 
 ## O que é?
 
