@@ -1,8 +1,8 @@
-# 🗃️ Modelo Entidade-Relacionamento (ER) Conceitual — Seção 3.6.1
+# 🗃️ Modelo Entidade-Relacionamento (ER) Conceitual
 
 ## O que é?
 
-O **Modelo ER Conceitual** representa o domínio do problema de forma abstrata — sem se preocupar ainda com tabelas, PKs ou SQL. É o primeiro passo da modelagem de dados, focado em **"o que existe"** no negócio.
+O **Modelo ER Conceitual** representa o domínio do problema de forma abstrata, sem se preocupar ainda com tabelas, PKs ou SQL. É o primeiro passo da modelagem de dados, focado em **"o que existe"** no negócio.
 
 Nele você identifica:
 - **Entidades:** as "coisas" do domínio (ex: Usuário, Produto, Pedido)
