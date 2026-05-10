@@ -1,10 +1,10 @@
-# 📐 Diagrama de Classes do Domínio — Seção 3.2.3
+# 📐 Diagrama de Classes do Domínio
 
 ## O que é?
 
 O **Diagrama de Classes** é um diagrama UML que representa a estrutura estática do sistema: quais entidades (classes) existem, quais atributos e métodos cada uma tem, e como elas se relacionam entre si.
 
-Ele é o "esqueleto conceitual" do seu sistema — antes mesmo de pensar em banco de dados ou código.
+Ele é o "esqueleto conceitual" do seu sistema, que deve ser feito antes mesmo de pensar em banco de dados ou código.
 
 ---
 
@@ -35,8 +35,6 @@ Cada classe é representada por um retângulo dividido em **3 compartimentos obr
 ---
 
 ## Tipos de Relacionamento
-
-Esta é a parte onde mais gente erra! Veja cada um com cuidado:
 
 ### 1. Associação Simples (`—`)
 Uma classe **conhece** a outra. Linha sólida sem adornos especiais.
