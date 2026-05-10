@@ -1,4 +1,4 @@
-# 🏗️ Modelo Físico e Migrations SQL — Seção 3.6.3
+# 🏗️ Modelo Físico e Migrations SQL 
 
 ## O que é o Modelo Físico?
 
@@ -23,7 +23,6 @@ Porque o banco precisa ser criado **na ordem certa**. Se você tenta criar a tab
 0006_create_itens_pedido.sql  ← depende de PEDIDOS e PRODUTOS
 ```
 
-> ⚠️ **Sem a numeração, o critério 2.3.2 não pontua.** Use sempre o prefixo `0001_`, `0002_`, etc.
 
 ---
 
