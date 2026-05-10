@@ -38,8 +38,7 @@ monitoria_modulo2/
     ├── diagrama_sequencia.md
     ├── modelo_er.md    
     ├── der.md
-    ├── modelo_fisico.md 
-    └── 0006_create_itens_pedido.sql
+    └── modelo_fisico.md
 ```
 
 ---
